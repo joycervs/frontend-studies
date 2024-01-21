@@ -42,7 +42,7 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos 
 <hr>
 <br>
 
-<img src="./img/preview-projeto.png">
+
 
 # Bikcraft Landing Page
 
