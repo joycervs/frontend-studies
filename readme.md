@@ -23,7 +23,7 @@ Este é um repositório de <strong>estudos</strong>, onde reunirei os exercício
 
 ##### EN
 
-This is a <strong>study</strong> repository where I'll compile the exercises and projects completed in the <strong>Front-end Development</strong> course track on the [Origamid](https://www.origamid.com/) platform. The goal is to keep my coding practices organized and document my progress as I gain more knowledge.
+This is a <strong>study</strong> repository where I'll compile the exercises and projects completed in the <strong>Front-end Development</strong> course track on the [Origamid](https://www.origamid.com/) platform. The goal is to keep my coding practices organized and document my progress as I achieve more knowledge.
 
 ## Courses/Topics
 
