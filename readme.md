@@ -32,4 +32,4 @@ This is a <strong>study</strong> repository where I'll compile the exercises and
 - CSS3 📚
 - JavaScript 📚
 
-[(back to top)](#PT)
+
